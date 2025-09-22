@@ -97,7 +97,7 @@ export function Footer() {
           </div>
 
           <div className="text-center md:text-right">
-            <p className="text-muted-foreground text-sm">© 2024 Sucuri Amarela Educational Project</p>
+            <p className="text-muted-foreground text-sm">© 2025 Sucuri Amarela Educational Project</p>
             <p className="text-muted-foreground text-xs mt-1">Informações baseadas em pesquisas científicas atuais</p>
           </div>
         </div>
